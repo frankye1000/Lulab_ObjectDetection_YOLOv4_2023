@@ -1,0 +1,18 @@
+# 忽略所有附檔名是 .png 的檔案
+*.png
+
+# 忽略所有model 的檔案
+model/
+model_checkpoints/
+# 忽略所有dataset 的檔案
+asset/
+class_names/
+dataset/
+eval/
+model/
+__pycache__/
+result_df/
+result_img/
+result_vedio/
+test_dataset/
+.ipynb_checkpoints/
